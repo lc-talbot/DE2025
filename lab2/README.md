@@ -1,5 +1,3 @@
-This is a trigger test
-
 # Extending the Lab Example with Training-API
 
 sudo docker build -t indikakuma/training-api:0.0.1 .
